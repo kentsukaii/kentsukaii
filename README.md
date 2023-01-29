@@ -4,7 +4,7 @@
 </div>
 
 <div align="left">
-  <img src="https://komarev.com/ghpvc/?username=kentsukaii&label=Profile%20views&color=0e75b6&style=flat" alt="kentsukaii" />
+  <img src="https://komarev.com/ghpvc/?username=kentsukaii&label=Profile%20views&color=0e75b6&style=flat&theme=dark" alt="kentsukaii" />
   <h3>About Me</h3>
 
 -👽 I'm also known as **Tenente**;
