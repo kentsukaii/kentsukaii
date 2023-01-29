@@ -3,6 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=kentsukaii&label=Profile%20views&color=0e75b6&style=flat" alt="kentsukaii" /> </p>
 <h3 align="left">About Me</h3>
+
 -👽 I'm also known as **Tenente**;
 
 -🧑🏻‍🎓 I’m currently taking a CTeSP while learning and making personal projects;
