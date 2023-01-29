@@ -1,19 +1,14 @@
 <h1 align="center">Hi, I'm Kentsukaii!</h1>
-<h3 align="center">An software developer 👨🏼‍💻 from Portugal</h3>
+<h3 align="center">A software developer 👨🏼‍💻 from Portugal</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=kentsukaii&label=Profile%20views&color=0e75b6&style=flat" alt="kentsukaii" /> </p>
 
-- 👽 I'm also known as **Tenente**
+- •📫 Here are my social accounts **https://linktr.ee/kentsukaii**
 
-- 💬 Ask me about **C#, Java, Flutter**
-
-- 📫 How to reach me **https://linktr.ee/kentsukaii**
-
-- ⚡ Reality of life **Just keep going**
+- •⚡ Quote that can describe me **"Sometimes the dream itself can keep you all along the road." - Keane**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://twitter.com/kentsukaii" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="kentsukaii" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
