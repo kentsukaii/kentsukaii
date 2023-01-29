@@ -1,7 +1,11 @@
-<div align="center">
-  <a href="https://rishavchanda.io">
-    <img src="[https://www.assignmentexpert.com/blog/wp-content/uploads/2020/12/self-learning-programming.jpg]" alt="MasterHead" />
-  </a>
+<img src="https://www.assignmentexpert.com/blog/wp-content/uploads/2020/12/self-learning-programming.jpg" alt="Programmer Coding" class="MasterHead">
+<style>
+.MasterHead {
+   width: 100%;
+   height: auto;
+   max-width: 100%;
+}
+</style>
   <h1>Hi, I'm Kentsukaii!</h1>
   <h3>A software developer 👨🏼‍💻 from Portugal</h3>
 </div>
