@@ -26,4 +26,4 @@
 <h3 align="left">Github Stats</h3>
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=kentsukaii&theme=radical)
 
-![GitHub Streak](https://streak-stats.demolab.com/?user=kentsukaii1&theme=dark) 
+
