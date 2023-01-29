@@ -1,7 +1,9 @@
 <h1 align="center">Hi, I'm Kentsukaii!</h1>
-<h3 align="center">An enthusiastic software developer from Portugal 🇵🇹</h3>
+<h3 align="center">An software developer 👨🏼‍💻 from Portugal</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=kentsukaii&label=Profile%20views&color=0e75b6&style=flat" alt="kentsukaii" /> </p>
+
+- 👽 I'm also known as **Tenente**
 
 - 💬 Ask me about **C#, Java, Flutter**
 
