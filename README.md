@@ -12,7 +12,7 @@
  
 -💻 Some of my projects will be available here, so follow me to check them out 👌🏻;
  
--📫 Here are my social accounts [https://linktr.ee/kentsukaii](https://linktr.ee/kentsukaii);
+-📫 You can reach me by DM one of the accounts here: [https://linktr.ee/kentsukaii](https://linktr.ee/kentsukaii);
  
 -⚡ Quote that can describe me **"Sometimes the dream itself can keep you all along the road." - Keane**.
 
