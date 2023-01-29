@@ -1,4 +1,4 @@
-<img src="https://www.assignmentexpert.com/blog/wp-content/uploads/2020/12/self-learning-programming.jpg" alt="Programmer Coding" class="MasterHead">
+<img src="https://cdn.dribbble.com/users/1805542/screenshots/4596376/media/97570583338607c848e2facf448c368f.gif" alt="Programmer Coding" class="MasterHead">
   <h1>Hi, I'm Kentsukaii!</h1>
   <h3>A software developer 👨🏼‍💻 from Portugal</h3>
 </div>
