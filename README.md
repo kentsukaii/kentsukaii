@@ -3,17 +3,17 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=kentsukaii&label=Profile%20views&color=0e75b6&style=flat" alt="kentsukaii" /> </p>
 
-- •👽 I'm also known as **Tenente**;
-- 
-- •🧑🏻‍🎓 I’m currently taking a CTeSP while learning and making personal projects;
-- 
-- •🧠 I'm always ready to learn and improve!;
-- 
-- •💻 Some of my projects will be available here, so follow me to check them out!;
-- 
-- •📫 Here are my social accounts [https://linktr.ee/kentsukaii](https://linktr.ee/kentsukaii);
-- 
-- •⚡ Quote that can describe me **"Sometimes the dream itself can keep you all along the road." - Keane**.
+-👽 I'm also known as **Tenente**;
+
+-🧑🏻‍🎓 I’m currently taking a CTeSP while learning and making personal projects;
+ 
+-🧠 I'm always ready to learn and improve!;
+ 
+-💻 Some of my projects will be available here, so follow me to check them out!;
+ 
+-📫 Here are my social accounts [https://linktr.ee/kentsukaii](https://linktr.ee/kentsukaii);
+ 
+-⚡ Quote that can describe me **"Sometimes the dream itself can keep you all along the road." - Keane**.
 
 </p>
 
