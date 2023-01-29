@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=kentsukaii&label=Profile%20views&color=0e75b6&style=flat" alt="kentsukaii" /> </p>
 
-- •📫 Here are my social accounts **https://linktr.ee/kentsukaii**
+- •📫 Here are my social accounts [https://linktr.ee/kentsukaii](https://linktr.ee/kentsukaii)
 
 - •⚡ Quote that can describe me **"Sometimes the dream itself can keep you all along the road." - Keane**
 
