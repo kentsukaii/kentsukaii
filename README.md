@@ -7,6 +7,7 @@
   <img src="https://komarev.com/ghpvc/?username=kentsukaii&label=Profile%20views&color=0e75b6&style=flat" alt="kentsukaii" />
   <h3>About Me</h3>
   <ul>
+    
     <li>👽 I'm also known as <strong>Tenente</strong>;</li>
     
     <li>🧑🏻‍🎓 I’m currently taking a CTeSP while learning by making personal projects;</li>
@@ -18,6 +19,7 @@
     <li>📫 You can reach me by DM one of my social accounts 👉🏻 <a href="https://linktr.ee/kentsukaii">https://linktr.ee/kentsukaii</a>;</li>
     
     <li>⚡ Quote that describes me: <em>"Sometimes the dream itself can keep you all along the road." - Keane</em>.</li>
+    
   </ul>
 
 <h3 align="left">Languages and Tools that I've already worked with:</h3>
