@@ -8,10 +8,15 @@
   <h3>About Me</h3>
   <ul>
     <li>👽 I'm also known as <strong>Tenente</strong>;</li>
+    
     <li>🧑🏻‍🎓 I’m currently taking a CTeSP while learning by making personal projects;</li>
+    
     <li>🧠 I'm always looking to learn new things and improve as a human being everyday!;</li>
+    
     <li>💻 Some of my projects will be available here, so follow me to check them out 👌🏻;</li>
+    
     <li>📫 You can reach me by DM one of my social accounts 👉🏻 <a href="https://linktr.ee/kentsukaii">https://linktr.ee/kentsukaii</a>;</li>
+    
     <li>⚡ Quote that describes me: <em>"Sometimes the dream itself can keep you all along the road." - Keane</em>.</li>
   </ul>
 
