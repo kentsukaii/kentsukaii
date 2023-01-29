@@ -9,7 +9,7 @@
  
 -🧠 I'm always ready to learn and improve!;
  
--💻 Some of my projects will be available here, so follow me to check them out 💪🏼;
+-💻 Some of my projects will be available here, so follow me to check them out 👌🏻;
  
 -📫 Here are my social accounts [https://linktr.ee/kentsukaii](https://linktr.ee/kentsukaii);
  
