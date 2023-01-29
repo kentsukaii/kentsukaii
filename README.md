@@ -1,6 +1,6 @@
 <div align="center">
   <a href="https://rishavchanda.io">
-    <img src="https://1.bp.blogspot.com/-7A4WynwLsM..." alt="MasterHead" />
+    <img src="[https://www.assignmentexpert.com/blog/wp-content/uploads/2020/12/self-learning-programming.jpg]" alt="MasterHead" />
   </a>
   <h1>Hi, I'm Kentsukaii!</h1>
   <h3>A software developer 👨🏼‍💻 from Portugal</h3>
