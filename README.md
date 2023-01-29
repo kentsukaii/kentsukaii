@@ -1,6 +1,6 @@
+[![MasterHead](https://1.bp.blogspot.com/-7A4WynwLsM...)](https://rishavchanda.io)
 <h1 align="center">Hi, I'm Kentsukaii!</h1>
 <h3 align="center">A software developer 👨🏼‍💻 from Portugal</h3>
-
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=kentsukaii&label=Profile%20views&color=0e75b6&style=flat" alt="kentsukaii" /> </p>
 <h3 align="left">About Me</h3>
 
