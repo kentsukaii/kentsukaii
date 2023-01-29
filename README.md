@@ -8,7 +8,7 @@
 
 -🧑🏻‍🎓 I’m currently taking a CTeSP while learning and making personal projects;
  
--🧠 I'm always ready to learn and improve!;
+-🧠 I'm always looking to learn new things and improve a bit as a human being everyday!;
  
 -💻 Some of my projects will be available here, so follow me to check them out 👌🏻;
  
