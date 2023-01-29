@@ -6,7 +6,7 @@
 
 -👽 I'm also known as **Tenente**;
 
--🧑🏻‍🎓 I’m currently taking a CTeSP while learning and making personal projects;
+-🧑🏻‍🎓 I’m currently taking a CTeSP while learning by making personal projects;
  
 -🧠 I'm always looking to learn new things and improve a bit as a human being everyday!;
  
