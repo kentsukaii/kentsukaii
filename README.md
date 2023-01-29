@@ -27,5 +27,5 @@
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=kentsukaii&theme=radical)
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username= &theme=radical)
+[![GitHub Streak](https://streak-stats.demolab.com/?user=kentsukaii&theme=dark)](https://git.io/streak-stats)
 
