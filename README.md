@@ -1,4 +1,4 @@
-<img src="https://cdn.dribbble.com/users/108183/screenshots/14420202/media/0398828bd84d67fad129e64e8a79f77c.gif" alt="Programmer Coding" class="MasterHead" weight="900px">
+<img src="https://cdn.dribbble.com/users/108183/screenshots/14420202/media/0398828bd84d67fad129e64e8a79f77c.gif" alt="Programmer Coding" class="MasterHead" weight="1280px" height="640px">
   <h1>Hi, I'm Kentsukaii!</h1>
   <h3>A software developer 👨🏼‍💻 from Portugal</h3>
 </div>
