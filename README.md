@@ -5,8 +5,10 @@
 
 <!-- ===== SOCIAL BADGES ===== -->
 <p align="left">
-  <a href="https://www.linkedin.com/" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0B0B0B?style=for-the-badge&logo=linkedin&logoColor=0A66C2"/>
+<img 
+  src="https://komarev.com/ghpvc/?username=Kentsukaii&label=Profile%20views&color=E67E22&style=flat" 
+  alt="profile views"
+/>
   </a>
 
   
