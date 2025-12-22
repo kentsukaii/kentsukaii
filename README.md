@@ -21,10 +21,6 @@ I enjoy turning ideas into solid solutions — preferably the simplest one that 
 <br/>
 
 <!-- ================= ABOUT + IMAGE ================= -->
-<table>
-  <tr>
-    <td valign="top" width="55%">
-
 ### 🧠 More About Me
 
 - 💼 Worked on multiple private projects involving **Next.js, TypeScript and APIs**
@@ -34,17 +30,6 @@ I enjoy turning ideas into solid solutions — preferably the simplest one that 
 - 💬 Ask me about **frontend, React, Next.js or general problem solving**
 - ⚡ Fun fact: I value **simple solutions over over-engineered ones**
 - 📫 Feel free to reach out via **LinkedIn or Email**
-
-    </td>
-    <td align="center" width="45%">
-      <img 
-        alt="coding illustration" 
-        src="https://user-images.githubusercontent.com/74038190/216656981-9a208a88-7e2b-4cb7-9b35-5e0c1f2dfb6e.gif" 
-        width="420"
-      />
-    </td>
-  </tr>
-</table>
 
 <br/>
 
@@ -89,37 +74,6 @@ I enjoy turning ideas into solid solutions — preferably the simplest one that 
     height="170"
   />
 </p>
-
-<p align="left">
-  <img 
-    src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Kentsukaii&theme=tokyonight" 
-  />
-</p>
-
-<p align="left">
-📈 Actively contributing throughout the current year, working on both public and private projects.
-</p>
-
-<br/>
-
-<!-- ================= PROJECTS ================= -->
-### 🧩 Featured Projects
-
-<table>
-  <tr>
-    <td width="50%" valign="top">
-      <a href="https://github.com/Kentsukaii">
-        <img src="https://github-readme-stats.vercel.app/api/pin/?username=Kentsukaii&repo=REPO_NAME_1&theme=tokyonight&hide_border=true" />
-      </a>
-    </td>
-    <td width="50%" valign="top">
-      <a href="https://github.com/Kentsukaii">
-        <img src="https://github-readme-stats.vercel.app/api/pin/?username=Kentsukaii&repo=REPO_NAME_2&theme=tokyonight&hide_border=true" />
-      </a>
-    </td>
-  </tr>
-</table>
-
 <br/>
 
 <!-- ================= FOOTER ================= -->
