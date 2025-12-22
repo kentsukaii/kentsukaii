@@ -8,10 +8,7 @@
   <a href="https://www.linkedin.com/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0B0B0B?style=for-the-badge&logo=linkedin&logoColor=C2410C"/>
   </a><!--
-  --><a href="https://twitter.com/" target="_blank">
-    <img src="https://img.shields.io/badge/X-0B0B0B?style=for-the-badge&logo=x&logoColor=C2410C"/>
-  </a><!--
-  --><a href="mailto:your@email.com">
+  --><a href="mailto:kentsukaii@protonmail.com">
     <img src="https://img.shields.io/badge/Email-0B0B0B?style=for-the-badge&logo=protonmail&logoColor=C2410C"/>
   </a>
 </p>
