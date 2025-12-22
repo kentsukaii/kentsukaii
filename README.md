@@ -4,23 +4,11 @@
 </h1>
 
 <!-- ===== SOCIAL BADGES ===== -->
-<p align="left">
-<img 
-  src="https://komarev.com/ghpvc/?username=Kentsukaii&label=Profile%20views&color=E67E22&style=flat" 
-  alt="profile views"
-/>
-  </a>
+<p align="left"> <a href="https://www.linkedin.com/" target="_blank"> <img src="https://img.shields.io/badge/LinkedIn-0B0B0B?style=for-the-badge&logo=linkedin&logoColor=0A66C2"/> </a>
 
   
 <!-- ================= ABOUT ================= -->
 ## 👨‍💻 About Me   
-
-<p align="left">
-<img 
-  src="https://komarev.com/ghpvc/?username=Kentsukaii&label=Profile%20views&color=C2410C&style=flat" 
-  alt="profile views"
-/>
-</p>
 
 **💼 Worked on multiple private projects involving _Next.js, TypeScript and APIs_.**
 
@@ -38,7 +26,7 @@
 
 <!-- ================= TECH STACK ================= -->
 ## 🧰 Tech Stack
-
+<p align="center">
 <table>
   <tr>
     <td width="50%" valign="top">
@@ -64,18 +52,26 @@
 
 
 <br/>
+</p>
 
 <!-- ================= GITHUB ACTIVITY ================= -->
 ## 📊 GitHub Activity
 
 <p align="left">
+<img 
+  src="https://komarev.com/ghpvc/?username=Kentsukaii&label=Profile%20views&color=C2410C&style=flat" 
+  alt="profile views"
+/>
+</p>
+
+<p align="center">
   <img 
     src="https://github-readme-stats.vercel.app/api?username=Kentsukaii&show_icons=true&theme=tokyonight&hide_border=true" 
     height="170"
   />
 </p>
 
-<p align="left">
+<p align="center">
   <img 
     src="https://github-readme-stats.vercel.app/api/top-langs/?username=Kentsukaii&layout=compact&theme=tokyonight&hide_border=true" 
     height="170"
