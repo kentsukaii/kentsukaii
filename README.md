@@ -13,33 +13,33 @@
   </a>
 </p>
 
+<hr/>
 
 <!-- ================= ABOUT ================= -->
-<div style="display:flex; align-items:center; justify-content:space-between;">
-  <h2>👨‍💻 About Me</h2>
+<h2 align="left">
+  👨‍💻 About Me
   <img 
+    align="right"
     src="https://komarev.com/ghpvc/?username=Kentsukaii&label=Profile%20views&color=C2410C&style=flat" 
     alt="profile views"
   />
-</div>
+</h2>
 
 <p>
-
-<strong>💼 Worked on multiple private projects involving <em>Next.js, TypeScript and APIs</em>.</strong><br/><br/>
-<strong>🔍 I enjoy breaking down problems and finding clean, efficient solutions.</strong><br/><br/>
-<strong>👨‍💻 Constantly improving my skills in modern frontend architecture.</strong><br/><br/>
-<strong>💬 Ask me about frontend, React, Next.js or general problem solving.</strong><br/><br/>
-<strong>⚡ Fun fact:</strong> I value <strong>simple solutions over over-engineered ones</strong>.<br/><br/>
-<strong>📫 Feel free to reach out via LinkedIn or Email.</strong>
-
+  <strong>💼 Worked on multiple private projects involving <em>Next.js, TypeScript and APIs</em>.</strong><br/><br/>
+  <strong>🔍 I enjoy breaking down problems and finding clean and efficient solutions.</strong><br/><br/>
+  <strong>👨‍💻 Constantly improving my skills in modern frontend architecture.</strong><br/><br/>
+  <strong>💬 Ask me about frontend, React, Next.js or general problem solving.</strong><br/><br/>
+  <strong>⚡ Fun fact:</strong> I value <strong>simple solutions over over-engineered ones</strong>.<br/><br/>
+  <strong>📫 Feel free to reach out via LinkedIn or Email.</strong>
 </p>
 
-<br/>
+<hr/>
 
 <!-- ================= TECH STACK ================= -->
 <h2 align="left">🧰 Tech Stack</h2>
 
-<table align="left">
+<table align="center">
   <tr>
     <td align="center" valign="top" width="50%">
       <strong>🎨 Frontend</strong><br/><br/>
@@ -62,7 +62,7 @@
   </tr>
 </table>
 
-<br/>
+<hr/>
 
 <!-- ================= GITHUB ACTIVITY ================= -->
 <h2 align="left">📊 GitHub Activity</h2>
@@ -83,5 +83,3 @@
     </td>
   </tr>
 </table>
-
-
