@@ -65,17 +65,27 @@
 </p>
 
 <p align="center">
-  <img 
-    src="https://github-readme-stats.vercel.app/api?username=Kentsukaii&show_icons=true&theme=tokyonight&hide_border=true" 
-    height="170"
+<img 
+  src="https://github-readme-stats.vercel.app/api?username=Kentsukaii
+  &show_icons=true
+  &hide_border=true
+  &title_color=C2410C
+  &icon_color=C2410C
+  &text_color=C9D1D9
+  &bg_color=0D1117"
+/>
   />
 </p>
 
 <p align="center">
-  <img 
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=Kentsukaii&layout=compact&theme=tokyonight&hide_border=true" 
-    height="170"
-  />
+<img 
+  src="https://github-readme-stats.vercel.app/api/top-langs/?username=Kentsukaii
+  &layout=compact
+  &hide_border=true
+  &title_color=C2410C
+  &text_color=C9D1D9
+  &bg_color=0D1117"
+/>
 </p>
 
 <br/>
