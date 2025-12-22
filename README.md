@@ -14,10 +14,10 @@
 ## 👨‍💻 About Me   
 
 <p align="left">
-  <img 
-    src="https://komarev.com/ghpvc/?username=Kentsukaii&label=Profile%20views&color=0e75b6&style=flat" 
-    alt="profile views"
-  />
+<img 
+  src="https://komarev.com/ghpvc/?username=Kentsukaii&label=Profile%20views&color=7AA2F7&style=flat" 
+  alt="profile views"
+/>
 </p>
 
 **💼 Worked on multiple private projects involving _Next.js, TypeScript and APIs_.**
