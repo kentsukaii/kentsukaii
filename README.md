@@ -49,11 +49,25 @@ I am a versatile developer who adapts easily to different roles (Full Stack Web 
 <!-- ================= LANGUAGES & TOOLS ================= -->
 ### 🧰 Languages and Tools
 
+#### 🎨 Frontend
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=react,nextjs,ts,js,html,css,tailwind,nodejs,python,git,github,figma&perline=12" />
+  <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,tailwind&perline=10" />
 </p>
 
-<br/>
+#### ⚙️ Backend
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=nodejs,python&perline=10" />
+</p>
+
+#### 🗄️ Database
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=mongodb,firebase&perline=10" />
+</p>
+
+#### 🛠️ Tools
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=git,github,figma,vscode&perline=10" />
+</p>
 
 <!-- ================= GITHUB STATS ================= -->
 ### 📊 GitHub Stats
