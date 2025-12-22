@@ -1,4 +1,5 @@
 <!-- ================= HEADER ================= -->
+<h1 align="left">Hey 👋, I'm <span style="color:#58a6ff">Kentsukaii</span>!</h1>
 
 <p align="left">
   <a href="https://www.linkedin.com/" target="_blank">
@@ -25,11 +26,11 @@ I am a versatile developer who adapts easily to different roles (Full Stack Web 
 
 ### 🧠 More About Me:
 
-- 💼 Worked on multiple private projects involving **Next.js, TypeScript and APIs**
-- 👨‍💻 Currently improving my skills in **React, Next.js and modern frontend architecture**
-- 🛠️ Strong focus on clean UI, performance and scalability
-- 💬 Ask me anything tech-related — happy to help
-- 📫 Feel free to reach out via **LinkedIn or Email**
+🟪  Worked on multiple private projects 💼 involving **Next.js, TypeScript and APIs** 
+🟪  Currently improving my skills 👨‍💻 in **React, Next.js and modern frontend architecture** 
+🟪  Strong focus on clean UI, performance and scalability 🛠️
+🟪  Ask me anything tech-related — happy to help 💬
+🟪  Feel free to reach out 📫 via **LinkedIn or Email** 
 
     </td>
     <td align="center" width="45%">
