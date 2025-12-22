@@ -5,7 +5,7 @@
 
 <!-- ===== SOCIAL BADGES (NO BLUE LINE) ===== -->
 <p align="left">
-  <a href="https://www.linkedin.com/" target="_blank">
+  <a href="https://www.linkedin.com/in/davidtenente/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0B0B0B?style=for-the-badge&logo=linkedin&logoColor=C2410C"/>
   </a><!--
   --><a href="mailto:kentsukaii@protonmail.com">
