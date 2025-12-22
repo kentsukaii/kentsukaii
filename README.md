@@ -37,9 +37,9 @@
 <br/>
 
 <!-- ================= TECH STACK ================= -->
-<h2 align="right">🧰 Tech Stack</h2>
+<h2 align="left">🧰 Tech Stack</h2>
 
-<table align="right">
+<table align="left">
   <tr>
     <td align="center" valign="top" width="50%">
       <strong>🎨 Frontend</strong><br/><br/>
@@ -65,7 +65,7 @@
 <br/>
 
 <!-- ================= GITHUB ACTIVITY ================= -->
-<h2 align="right">📊 GitHub Activity</h2>
+<h2 align="left">📊 GitHub Activity</h2>
 
 <table align="center">
   <tr>
