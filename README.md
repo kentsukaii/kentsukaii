@@ -4,7 +4,7 @@
 </h1>
 
 <!-- ===== SOCIAL BADGES ===== -->
-<p align="left">
+<p align="right">
   <a href="https://www.linkedin.com/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0B0B0B?style=for-the-badge&logo=linkedin&logoColor=0A66C2"/>
   </a>
