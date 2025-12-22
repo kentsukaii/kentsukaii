@@ -16,8 +16,6 @@
   </a>
 </p>
 
-<br/>
-
 <!-- ================= ABOUT ================= -->
 <div style="display:flex; align-items:center; justify-content:space-between;">
   <h2>👨‍💻 About Me</h2>
