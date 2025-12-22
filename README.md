@@ -3,18 +3,18 @@
 
 <p align="left">
   <a href="https://www.linkedin.com/" target="_blank">
-    <img src="https://img.shields.io/badge/logo=linkedin&logoColor=white"/>
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white"/>
   </a>
-  <a href="https://x.com/" target="_blank">
-    <img src="https://img.shields.io/badge/111111?style=flat&logo=x&logoColor=white"/>
+  <a href="https://twitter.com/" target="_blank">
+    <img src="https://img.shields.io/badge/Twitter(X)-111111?style=flat&logo=x&logoColor=white"/>
   </a>
-  <a href="mailto:kentsukaii@protonmail.com">
+  <a href="mailto:your@email.com">
     <img src="https://img.shields.io/badge/Email-EA4335?style=flat&logo=gmail&logoColor=white"/>
   </a>
 </p>
 
 <p align="left">
-I am a versatile developer who adapts easily to different roles (Full Stack Web Developer 🌐, Frontend Developer ⚛️ or App Developer 📱) depending on what the project requires. I enjoy building clean, performant applications and exploring modern technologies to solve real problems.
+I am a versatile developer who adapts easily to different roles (Frontend ⚛️, Full Stack 🌐 or App Developer 📱) depending on the project needs. I enjoy building clean, performant interfaces and scalable applications using modern web technologies.
 </p>
 
 <br/>
@@ -27,9 +27,9 @@ I am a versatile developer who adapts easily to different roles (Full Stack Web 
 ### 🧠 More About Me:
 
 - 💼 Worked on multiple private projects involving **Next.js, TypeScript and APIs**
-- 🌱 Currently improving my skills in **React, Next.js and modern frontend architecture**
+- 🌱 Currently improving my skills in **frontend architecture and backend integrations**
 - 👨‍💻 Most of my public work is available on **[GitHub](https://github.com/Kentsukaii)**
-- 🛠️ Strong focus on clean UI, performance and scalability
+- 🛠️ Strong focus on clean UI, performance and maintainability
 - 💬 Ask me anything tech-related — happy to help
 - 📫 Feel free to reach out via **LinkedIn or Email**
 
@@ -47,10 +47,26 @@ I am a versatile developer who adapts easily to different roles (Full Stack Web 
 <br/>
 
 <!-- ================= LANGUAGES & TOOLS ================= -->
-### 🧰 Languages and Tools
+### 🧰 Languages & Tools
 
+#### 🎨 Frontend
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=react,nextjs,ts,js,html,css,tailwind,nodejs,python,git,github,figma&perline=12" />
+  <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,tailwind" />
+</p>
+
+#### 🧠 Backend
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=nodejs,express,python" />
+</p>
+
+#### 🗄️ Database
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=mongodb,firebase" />
+</p>
+
+#### 🛠️ Tools
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=git,github,figma,vscode,vercel" />
 </p>
 
 <br/>
