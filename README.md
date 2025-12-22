@@ -13,11 +13,6 @@
   </a>
 </p>
 
-<p align="left">
-Frontend / Full Stack developer focused on building clean, efficient and scalable applications.  
-I enjoy turning ideas into solid solutions — preferably the simplest one that actually works.
-</p>
-
 <br/>
 
 <!-- ================= ABOUT + IMAGE ================= -->
