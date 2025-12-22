@@ -6,7 +6,7 @@
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white"/>
   </a>
   <a href="https://x.com/" target="_blank">
-    <img src="https://img.shields.io/badge/Twitter(X)-111111?style=flat&logo=x&logoColor=white"/>
+    <img src="https://img.shields.io/badge/X-111111?style=flat&logo=x&logoColor=white"/>
   </a>
   <a href="mailto:kentsukaii@protonmail.com">
     <img src="https://img.shields.io/badge/Email-EA4335?style=flat&logo=gmail&logoColor=white"/>
