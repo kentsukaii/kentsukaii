@@ -13,8 +13,6 @@
   </a>
 </p>
 
-<hr/>
-
 <!-- ================= ABOUT ================= -->
 <h2 align="left">
   👨‍💻 About Me
@@ -34,7 +32,6 @@
   <strong>📫 Feel free to reach out via LinkedIn or Email.</strong>
 </p>
 
-<hr/>
 
 <!-- ================= TECH STACK ================= -->
 <h2 align="left">🧰 Tech Stack</h2>
@@ -62,7 +59,7 @@
   </tr>
 </table>
 
-<hr/>
+
 
 <!-- ================= GITHUB ACTIVITY ================= -->
 <h2 align="left">📊 GitHub Activity</h2>
