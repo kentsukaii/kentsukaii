@@ -1,5 +1,5 @@
 <!-- ================= HEADER ================= -->
-<h1 align="left">Hey 👋, I'm <span style="color:#58a6ff">Kentsukaii</span>!</h1>
+<h1 align="left">Hey 👋, I'm <span style="color:#58a6ff">Kentsukaii</span></h1>
 
 <p align="left">
   <a href="https://www.linkedin.com/" target="_blank">
@@ -14,8 +14,8 @@
 </p>
 
 <p align="left">
-I am a versatile developer who adapts easily to different roles (Frontend / Full Stack) depending on what the project requires.  
-I enjoy building clean, performant applications and working with modern technologies to solve real-world problems.
+Frontend / Full Stack developer focused on building clean, efficient and scalable applications.  
+I enjoy turning ideas into solid solutions — preferably the simplest one that actually works.
 </p>
 
 <br/>
@@ -28,10 +28,11 @@ I enjoy building clean, performant applications and working with modern technolo
 ### 🧠 More About Me
 
 - 💼 Worked on multiple private projects involving **Next.js, TypeScript and APIs**
-- 🌱 Currently improving my skills in **React, Next.js and modern frontend architecture**
+- 🔍 I enjoy breaking down problems and finding **clean and efficient solutions**
+- 🌱 Constantly improving my skills in **modern frontend architecture**
 - 👨‍💻 Most of my public work is available on **[GitHub](https://github.com/Kentsukaii)**
-- 🛠️ Strong focus on clean UI, performance and scalability
-- 💬 Ask me anything tech-related — happy to help
+- 💬 Ask me about **frontend, React, Next.js or general problem solving**
+- ⚡ Fun fact: I value **simple solutions over over-engineered ones**
 - 📫 Feel free to reach out via **LinkedIn or Email**
 
     </td>
@@ -48,7 +49,7 @@ I enjoy building clean, performant applications and working with modern technolo
 <br/>
 
 <!-- ================= LANGUAGES & TOOLS ================= -->
-### 🧰 Languages & Tools
+### 🧰 Tech Stack
 
 #### 🎨 Frontend
 <p align="left">
