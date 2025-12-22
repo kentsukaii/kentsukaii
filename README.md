@@ -15,7 +15,7 @@
 
 <!-- ================= ABOUT ================= -->
 <h2 align="left">
-  👨‍💻 About Me
+  About Me
   <img 
     align="right"
     src="https://komarev.com/ghpvc/?username=Kentsukaii&label=Profile%20views&color=C2410C&style=flat" 
