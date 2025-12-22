@@ -3,12 +3,12 @@
 
 <p align="left">
   <a href="https://www.linkedin.com/" target="_blank">
-    <img src="https://img.shields.io/badge/logo=linkedin&logoColor=white"/>
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white"/>
   </a>
-  <a href="https://x.com/" target="_blank">
-    <img src="https://img.shields.io/badge/111111?style=flat&logo=x&logoColor=white"/>
+  <a href="https://twitter.com/" target="_blank">
+    <img src="https://img.shields.io/badge/Twitter(X)-111111?style=flat&logo=x&logoColor=white"/>
   </a>
-  <a href="mailto:kentsukaii@protonmail.com">
+  <a href="mailto:your@email.com">
     <img src="https://img.shields.io/badge/Email-EA4335?style=flat&logo=gmail&logoColor=white"/>
   </a>
 </p>
@@ -27,7 +27,8 @@ I am a versatile developer who adapts easily to different roles (Full Stack Web 
 ### 🧠 More About Me:
 
 - 💼 Worked on multiple private projects involving **Next.js, TypeScript and APIs**
-- 👨‍💻 Currently improving my skills in **React, Next.js and modern frontend architecture**
+- 🌱 Currently improving my skills in **React, Next.js and modern frontend architecture**
+- 👨‍💻 Most of my public work is available on **[GitHub](https://github.com/Kentsukaii)**
 - 🛠️ Strong focus on clean UI, performance and scalability
 - 💬 Ask me anything tech-related — happy to help
 - 📫 Feel free to reach out via **LinkedIn or Email**
