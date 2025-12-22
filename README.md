@@ -4,7 +4,7 @@
 </h1>
 
 <!-- ===== SOCIAL BADGES ===== -->
-<p align="right">
+<p align="left">
   <a href="https://www.linkedin.com/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0B0B0B?style=for-the-badge&logo=linkedin&logoColor=0A66C2"/>
   </a>
@@ -13,7 +13,7 @@
 <!-- ================= ABOUT ================= -->
 ## 👨‍💻 About Me   
 
-<p align="right">
+<p align="left">
   <img 
     src="https://komarev.com/ghpvc/?username=Kentsukaii&label=Profile%20views&color=0e75b6&style=flat" 
     alt="profile views"
