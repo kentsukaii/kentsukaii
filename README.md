@@ -18,15 +18,15 @@
 <!-- ================= ABOUT + IMAGE ================= -->
 
 - 💼 Worked on multiple private projects involving **Next.js, TypeScript and APIs**
-- 
+  
 - 🔍 I enjoy breaking down problems and finding **clean and efficient solutions**
-- 
+  
 - 👨‍💻 Constantly improving my skills in **modern frontend architecture**
-- 
+  
 - 💬 Ask me about **frontend, React, Next.js or general problem solving**
-- 
+  
 - ⚡ Fun fact: I value **simple solutions over over-engineered ones**
-- 
+  
 - 📫 Feel free to reach out via **LinkedIn or Email**
 
 <br/>
