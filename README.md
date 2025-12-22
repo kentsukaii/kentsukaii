@@ -1,60 +1,88 @@
 <!-- ================= HEADER ================= -->
 <h1 align="left">
-  Hey, I'm <span style="color:#58a6ff">David Tenente</span> 👋
+  Hey, I'm <span style="color:#58a6ff">David Tenente 👋</span>
 </h1>
 
+<!-- ===== SOCIAL ICONS ===== -->
 <p align="left">
   <a href="https://www.linkedin.com/" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white"/>
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" width="32"/>
   </a>
+  &nbsp;&nbsp;
   <a href="https://twitter.com/" target="_blank">
-    <img src="https://img.shields.io/badge/Twitter(X)-111111?style=flat&logo=x&logoColor=white"/>
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/twitter/twitter-original.svg" width="32"/>
   </a>
+  &nbsp;&nbsp;
   <a href="mailto:your@email.com">
-    <img src="https://img.shields.io/badge/Email-EA4335?style=flat&logo=gmail&logoColor=white"/>
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/google/google-original.svg" width="32"/>
   </a>
 </p>
 
 <br/>
 
 <!-- ================= ABOUT ================= -->
+## 👨‍💻 About Me
 
-- 💼 Worked on multiple private projects involving **Next.js, TypeScript and APIs**
-- 🔍 I enjoy breaking down problems and finding **clean and efficient solutions**
-- 👨‍💻 Constantly improving my skills in **modern frontend architecture**
-- 💬 Ask me about **frontend, React, Next.js or general problem solving**
-- ⚡ Fun fact: I value **simple solutions over over-engineered ones**
-- 📫 Feel free to reach out via **LinkedIn or Email**
+**💼 Worked on multiple private projects involving _Next.js, TypeScript and APIs_.**
+
+**🔍 I enjoy breaking down problems and finding clean, efficient solutions.**
+
+**👨‍💻 Constantly improving my skills in modern frontend architecture.**
+
+**💬 Ask me about frontend, React, Next.js or general problem solving.**
+
+**⚡ Fun fact:** I value **simple solutions over over-engineered ones.**
+
+**📫 Feel free to reach out via LinkedIn or Email.**
 
 <br/>
 
-<!-- ================= LANGUAGES & TOOLS ================= -->
-### 🧰 Tech Stack
+<!-- ================= TECH STACK ================= -->
+## 🧰 Tech Stack
 
-#### 🎨 Frontend
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,tailwind&perline=10" />
+<table>
+  <tr>
+    <td width="50%" valign="top">
+
+### 🎨 Frontend
+<p>
+  <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,tailwind&perline=7" />
 </p>
 
-#### ⚙️ Backend
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=nodejs,python&perline=10" />
+    </td>
+    <td width="50%" valign="top">
+
+### ⚙️ Backend
+<p>
+  <img src="https://skillicons.dev/icons?i=nodejs,python&perline=7" />
 </p>
 
-#### 🗄️ Database
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=mongodb,firebase&perline=10" />
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" valign="top">
+
+### 🗄️ Database
+<p>
+  <img src="https://skillicons.dev/icons?i=mongodb,firebase&perline=7" />
 </p>
 
-#### 🛠️ Tools
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=git,github,figma,vscode&perline=10" />
+    </td>
+    <td width="50%" valign="top">
+
+### 🛠️ Tools
+<p>
+  <img src="https://skillicons.dev/icons?i=git,github,figma,vscode&perline=7" />
 </p>
+
+    </td>
+  </tr>
+</table>
 
 <br/>
 
 <!-- ================= GITHUB ACTIVITY ================= -->
-### 📊 GitHub Activity
+## 📊 GitHub Activity
 
 <p align="left">
   <img 
@@ -75,4 +103,7 @@
 <!-- ================= FOOTER ================= -->
 <p align="left">
   <img 
-    src="https:
+    src="https://komarev.com/ghpvc/?username=Kentsukaii&label=Profile%20views&color=0e75b6&style=flat" 
+    alt="profile views"
+  />
+</p>
