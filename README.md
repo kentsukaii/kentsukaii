@@ -69,17 +69,21 @@
 <!-- ================= GITHUB ACTIVITY ================= -->
 <h2 align="center">📊 GitHub Activity</h2>
 
-<p align="center">
-  <img
-    src="https://github-readme-stats.vercel.app/api?username=Kentsukaii&show_icons=true&hide_border=true&title_color=C2410C&icon_color=C2410C&text_color=C9D1D9&bg_color=0D1117"
-    height="170"
-  />
-</p>
+<table align="center">
+  <tr>
+    <td align="center" width="50%">
+      <img
+        src="https://github-readme-stats.vercel.app/api?username=Kentsukaii&show_icons=true&hide_border=true&title_color=C2410C&icon_color=C2410C&text_color=C9D1D9&bg_color=0D1117"
+        height="170"
+      />
+    </td>
+    <td align="center" width="50%">
+      <img
+        src="https://github-readme-stats.vercel.app/api/top-langs/?username=Kentsukaii&layout=compact&hide_border=true&title_color=C2410C&text_color=C9D1D9&bg_color=0D1117"
+        height="170"
+      />
+    </td>
+  </tr>
+</table>
 
-<p align="center">
-  <img
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=Kentsukaii&layout=compact&hide_border=true&title_color=C2410C&text_color=C9D1D9&bg_color=0D1117"
-    height="170"
-  />
-</p>
 
