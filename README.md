@@ -11,19 +11,14 @@
 
   
 <!-- ================= ABOUT ================= -->
-<table width="100%">
-  <tr>
-    <td align="left">
-      <h2>👨‍💻 About Me</h2>
-    </td>
-    <td align="right">
-      <img 
-        src="https://komarev.com/ghpvc/?username=Kentsukaii&label=Profile%20views&color=0e75b6&style=flat" 
-        alt="profile views"
-      />
-    </td>
-  </tr>
-</table>
+## 👨‍💻 About Me   
+
+<p align="right">
+  <img 
+    src="https://komarev.com/ghpvc/?username=Kentsukaii&label=Profile%20views&color=0e75b6&style=flat" 
+    alt="profile views"
+  />
+</p>
 
 **💼 Worked on multiple private projects involving _Next.js, TypeScript and APIs_.**
 
