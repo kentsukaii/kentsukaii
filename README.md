@@ -1,6 +1,5 @@
 <!-- ================= HEADER ================= -->
 </br>
-</br>
 <h1 align="left">Hey, I'm <span style="color:#58a6ff">Kentsukaii 👋</span></h1>
 
 <p align="left">
