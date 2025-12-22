@@ -43,41 +43,26 @@
 <table>
   <tr>
     <td width="50%" valign="top">
-
-### 🎨 Frontend
-<p>
-  <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,tailwind&perline=7" />
-</p>
-
+      <strong>🎨 Frontend</strong><br/><br/>
+      <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,tailwind&perline=7" />
     </td>
     <td width="50%" valign="top">
-
-### ⚙️ Backend
-<p>
-  <img src="https://skillicons.dev/icons?i=nodejs,python&perline=7" />
-</p>
-
+      <strong>⚙️ Backend</strong><br/><br/>
+      <img src="https://skillicons.dev/icons?i=nodejs,python&perline=7" />
     </td>
   </tr>
   <tr>
     <td width="50%" valign="top">
-
-### 🗄️ Database
-<p>
-  <img src="https://skillicons.dev/icons?i=mongodb,firebase&perline=7" />
-</p>
-
+      <strong>🗄️ Database</strong><br/><br/>
+      <img src="https://skillicons.dev/icons?i=mongodb,firebase&perline=7" />
     </td>
     <td width="50%" valign="top">
-
-### 🛠️ Tools
-<p>
-  <img src="https://skillicons.dev/icons?i=git,github,figma,vscode&perline=7" />
-</p>
-
+      <strong>🛠️ Tools</strong><br/><br/>
+      <img src="https://skillicons.dev/icons?i=git,github,figma,vscode&perline=7" />
     </td>
   </tr>
 </table>
+
 
 <br/>
 
