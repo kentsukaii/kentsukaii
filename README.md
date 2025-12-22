@@ -38,21 +38,21 @@
 
 <table align="center">
   <tr>
-    <td align="center" valign="top" width="50%">
+    <td align="left" valign="top" width="50%">
       <strong>🎨 Frontend</strong><br/><br/>
       <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,tailwind&perline=4" />
     </td>
-    <td align="center" valign="top" width="50%">
+    <td align="left" valign="top" width="50%">
       <strong>⚙️ Backend</strong><br/><br/>
       <img src="https://skillicons.dev/icons?i=nodejs,python&perline=4" />
     </td>
   </tr>
   <tr>
-    <td align="center" valign="top" width="50%">
+    <td align="left" valign="top" width="50%">
       <strong>🗄️ Database</strong><br/><br/>
       <img src="https://skillicons.dev/icons?i=mongodb,firebase&perline=4" />
     </td>
-    <td align="center" valign="top" width="50%">
+    <td align="left" valign="top" width="50%">
       <strong>🛠️ Tools</strong><br/><br/>
       <img src="https://skillicons.dev/icons?i=git,github,figma,vscode&perline=4" />
     </td>
