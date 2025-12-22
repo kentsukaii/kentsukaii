@@ -27,7 +27,7 @@
   <strong>💼 Worked on multiple private projects involving <em>Next.js, TypeScript and APIs</em>.</strong><br/><br/>
   <strong>💡 I enjoy breaking down problems and finding clean and efficient solutions.</strong><br/><br/>
   <strong>💻 Constantly improving my skills in modern frontend architecture.</strong><br/><br/>
-  <strong>⚡ Always open to a new chalange such as work with different languages and frameworks.</strong><br/><br/>
+  <strong>⚡ Always open to new challenges and learning new languages and frameworks.</strong><br/><br/>
   <strong>📫 Feel free to reach out via LinkedIn or Email.</strong><br/><br/>
 </p>
 
