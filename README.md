@@ -1,5 +1,6 @@
 <h1>Hi, I'm Kentsukaii!</h1>
-  <h3>A software developer 👨🏼‍💻 from Portugal</h3>
+  <h3>I am a versatilist and easily adapt to different hats (Full Stack Web Developer 🌐, App Developer 📱, Designer 🎨) depending on what the project requires. I love exploring new tech stack 💻 and leveraging them to build cool stuffs 🛠️.
+</h3>
 </div>
 
 <div align="left">
