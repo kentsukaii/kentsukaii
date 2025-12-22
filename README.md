@@ -1,6 +1,7 @@
 <!-- ================= HEADER ================= -->
-</p>
-<h1 align="left">Hey, I'm <span style="color:#58a6ff"> David Tenente 👋</span></h1>
+<h1 align="left">
+  Hey, I'm <span style="color:#58a6ff">David Tenente</span> 👋
+</h1>
 
 <p align="left">
   <a href="https://www.linkedin.com/" target="_blank">
@@ -16,19 +17,14 @@
 
 <br/>
 
-<!-- ================= ABOUT + IMAGE ================= -->
+<!-- ================= ABOUT ================= -->
 
-💼 Worked on multiple private projects involving **Next.js, TypeScript and APIs**
-  
-🔍 I enjoy breaking down problems and finding **clean and efficient solutions**
-  
-👨‍💻 Constantly improving my skills in **modern frontend architecture**
-  
-💬 Ask me about **frontend, React, Next.js or general problem solving**
-  
-⚡ Fun fact: I value **simple solutions over over-engineered ones**
-  
-📫 Feel free to reach out via **LinkedIn or Email**
+- 💼 Worked on multiple private projects involving **Next.js, TypeScript and APIs**
+- 🔍 I enjoy breaking down problems and finding **clean and efficient solutions**
+- 👨‍💻 Constantly improving my skills in **modern frontend architecture**
+- 💬 Ask me about **frontend, React, Next.js or general problem solving**
+- ⚡ Fun fact: I value **simple solutions over over-engineered ones**
+- 📫 Feel free to reach out via **LinkedIn or Email**
 
 <br/>
 
@@ -73,12 +69,10 @@
     height="170"
   />
 </p>
+
 <br/>
 
 <!-- ================= FOOTER ================= -->
 <p align="left">
   <img 
-    src="https://komarev.com/ghpvc/?username=Kentsukaii&label=Profile%20views&color=0e75b6&style=flat" 
-    alt="profile views"
-  />
-</p>
+    src="https:
