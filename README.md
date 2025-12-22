@@ -3,20 +3,19 @@
   Hey, I'm <span style="color:#58a6ff">David Tenente 👋</span>
 </h1>
 
-<!-- ===== SOCIAL ICONS ===== -->
+<!-- ===== SOCIAL BADGES ===== -->
 <p align="left">
   <a href="https://www.linkedin.com/" target="_blank">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" width="32"/>
+    <img src="https://img.shields.io/badge/LinkedIn-0B0B0B?style=for-the-badge&logo=linkedin&logoColor=0A66C2"/>
   </a>
-  &nbsp;&nbsp;
   <a href="https://twitter.com/" target="_blank">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/twitter/twitter-original.svg" width="32"/>
+    <img src="https://img.shields.io/badge/X-0B0B0B?style=for-the-badge&logo=x&logoColor=white"/>
   </a>
-  &nbsp;&nbsp;
   <a href="mailto:your@email.com">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/google/google-original.svg" width="32"/>
+    <img src="https://img.shields.io/badge/Email-0B0B0B?style=for-the-badge&logo=gmail&logoColor=EA4335"/>
   </a>
 </p>
+
 
 <br/>
 
