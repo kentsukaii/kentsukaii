@@ -60,18 +60,9 @@
 
 
 <!-- ================= GITHUB ACTIVITY ================= -->
-<h2 align="left">📊 GitHub Activity</h2>
+## 📊 GitHub Activity
 
-<p align="center">
-  <img
-    src="https://github-readme-stats.vercel.app/api.svg?username=Kentsukaii&show_icons=true&hide_border=true&title_color=C2410C&icon_color=C2410C&text_color=C9D1D9&bg_color=0D1117"
-    alt="GitHub Stats"
-    height="170"
-  />
-  <img
-    src="https://github-readme-stats.vercel.app/api/top-langs.svg?username=Kentsukaii&layout=compact&hide_border=true&title_color=C2410C&text_color=C9D1D9&bg_color=0D1117"
-    alt="Top Languages"
-    height="170"
-  />
-</p>
+![](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Kentsukaii&theme=github_dark)
+![](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Kentsukaii&theme=github_dark)
+
 
