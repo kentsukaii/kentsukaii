@@ -60,9 +60,21 @@
 
 
 <!-- ================= GITHUB ACTIVITY ================= -->
-## 📊 GitHub Activity
+<h2 align="left">
+  📊 <span style="color:#C2410C">GitHub Activity</span>
+</h2>
 
-![](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Kentsukaii&theme=github_dark)
-![](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Kentsukaii&theme=github_dark)
+<hr style="border:0;height:2px;background:#C2410C;margin:16px 0 24px 0;" />
 
+<p align="center">
+  <img
+    src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Kentsukaii&theme=github_dark"
+    alt="GitHub Stats"
+  />
+  <img
+    src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Kentsukaii&theme=github_dark"
+    alt="Top Languages"
+  />
+</p>
 
+<hr style="border:0;height:1px;background:#1F2937;margin:24px 0;" />
