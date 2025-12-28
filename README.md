@@ -66,17 +66,17 @@
   <tr>
     <td align="center" width="50%">
       <img
-        width="100%"
-        src="https://github-readme-stats.vercel.app/api?username=Kentsukaii&show_icons=true&hide_border=true&title_color=C2410C&icon_color=C2410C&text_color=C9D1D9&bg_color=0D1117"
+        width="420"
+        src="https://github-readme-stats.vercel.app/api?username=Kentsukaii&show_icons=true&hide_border=true&title_color=C2410C&icon_color=C2410C&text_color=C9D1D9&bg_color=0D1117&cache_seconds=21600&v=2"
+        alt="GitHub Stats"
       />
     </td>
     <td align="center" width="50%">
       <img
-        width="100%"
-        src="https://github-readme-stats.vercel.app/api/top-langs/?username=Kentsukaii&layout=compact&hide_border=true&title_color=C2410C&text_color=C9D1D9&bg_color=0D1117"
+        width="420"
+        src="https://github-readme-stats.vercel.app/api/top-langs/?username=Kentsukaii&layout=compact&hide_border=true&title_color=C2410C&text_color=C9D1D9&bg_color=0D1117&cache_seconds=21600&card_width=420&v=2"
+        alt="Top Languages"
       />
     </td>
   </tr>
 </table>
-
-
